@@ -1,4 +1,4 @@
-A simple jQuery plugin that adds REST observer support for ajax requests.
+A simple jQuery plugin that adds [REST observer](https://www.dropbox.com/s/adinujoywzdm9nc/chapter.pdf) support for ajax requests.
 
 # Installation
 
