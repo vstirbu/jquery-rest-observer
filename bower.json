@@ -1,0 +1,23 @@
+{
+  "name": "jquery-rest-observer",
+  "version": "0.1.0",
+  "authors": [
+    "Vlad Stirbu <vlad.stirbu@ieee.org>"
+  ],
+  "description": "REST observer plugin for jQuery.ajax",
+  "main": "jquery.rest-observer.js",
+  "keywords": [
+    "rest",
+    "observer",
+    "ajax"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
