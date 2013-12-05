@@ -2,6 +2,12 @@ A simple jQuery plugin that adds [REST observer](https://www.dropbox.com/s/adinu
 
 # Installation
 
+Get the plugin using  bower:
+
+```bash
+bower install https://github.com/vstirbu/jquery-rest-observer.git
+```
+
 Include the script after jQuery library:
 
 ```html
