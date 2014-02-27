@@ -53,7 +53,3 @@ $.ajax({
 # License
 
 The code is available under MIT license.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vstirbu/jquery-rest-observer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
